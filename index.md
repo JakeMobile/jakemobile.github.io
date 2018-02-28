@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Jake's Mobile Application Development site
 
-You can use the [editor on GitHub](https://github.com/JakeMobile/jakemobile.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site is dedicated to discussing mobile application development using Qt5 with QML
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Qt5
 
-### Markdown
+Qt5 is the latest release of the Qt libraries from the Qt company originally developed by the Trolltech company.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These libraries are a set of C++ libraries designed to improve cross plateform development, i.e. using the Qt libraries allows developers to produce code that can easierly be compiled to different operating systems.
 
-```markdown
-Syntax highlighted code block
+One set of code can be compiled to either a Linux, Windows, Android, or even iOS plateforms.
 
 # Header 1
 ## Header 2
